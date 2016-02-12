@@ -20,7 +20,8 @@ Public Class FrmMain
 
         ddlYear.SelectedIndex = 0
         Label1.Text = "aaa"
-        Label1.Text = "cccd546f835986cbcc843c69f38ec3c6fb8924d007e"
+        Label1.Text = "bbb"
+        Label1.Text = "ccc"
 
     End Sub
 
