@@ -6,7 +6,19 @@
 </name>
 </assembly>
 <members>
-<member name="P:スケジュール.My.Resources.Resources.ResourceManager">
+<member name="M:スケジュール.FrmMain.MRComObject``1(``0@,System.Boolean)">
+	<summary>
+ COMオブジェクトの参照カウントをデクリメントします。
+ </summary>
+	<typeparam name="T">(省略可能)</typeparam>
+	<param name="objCom">
+ COM オブジェクト持った変数を指定します。
+ このメソッドの呼出し後、この引数の内容は Nothing となります。
+ </param>
+	<param name="force">
+ すべての参照を強制解放する場合はTrue、現在の参照のみを減ずる場合はFalse。
+ </param>
+</member><member name="P:スケジュール.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
@@ -19,18 +31,6 @@
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="M:スケジュール.FrmMain.MRComObject``1(``0@,System.Boolean)">
-	<summary>
- COMオブジェクトの参照カウントをデクリメントします。
- </summary>
-	<typeparam name="T">(省略可能)</typeparam>
-	<param name="objCom">
- COM オブジェクト持った変数を指定します。
- このメソッドの呼出し後、この引数の内容は Nothing となります。
- </param>
-	<param name="force">
- すべての参照を強制解放する場合はTrue、現在の参照のみを減ずる場合はFalse。
- </param>
 </member>
 </members>
 </doc>
