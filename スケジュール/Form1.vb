@@ -21,7 +21,7 @@ Public Class FrmMain
         ddlYear.SelectedIndex = 0
         Label1.Text = "aaa"
         Label1.Text = "bbb"
-        Label1.Text = "ccc"
+        Label1.Text = "cccadasdasdasa"
 
     End Sub
 
