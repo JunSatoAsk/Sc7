@@ -19,3 +19,13 @@ C:\Users\jun_sato\documents\visual studio 2010\Projects\スケジュール\ス�
 C:\Users\jun_sato\documents\visual studio 2010\Projects\スケジュール\スケジュール\obj\x86\Debug\スケジュール.Resources.resources
 C:\Users\jun_sato\documents\visual studio 2010\Projects\スケジュール\スケジュール\obj\x86\Debug\スケジュール.vbproj.GenerateResource.Cache
 C:\Users\jun_sato\Documents\Visual Studio 2010\Projects\スケジュール\スケジュール\obj\x86\Debug\スケジュール.vbprojResolveAssemblyReference.cache
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\bin\Debug\スケジュール.exe.config
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\obj\x86\Debug\スケジュール.xml
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\bin\Debug\スケジュール.exe
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\bin\Debug\スケジュール.pdb
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\bin\Debug\スケジュール.xml
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\obj\x86\Debug\スケジュール.FrmMain.resources
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\obj\x86\Debug\スケジュール.Resources.resources
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\obj\x86\Debug\スケジュール.vbproj.GenerateResource.Cache
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\obj\x86\Debug\スケジュール.exe
+C:\Users\jun_sato\Desktop\TESTプロジェクト\github\Sc7\スケジュール\obj\x86\Debug\スケジュール.pdb
